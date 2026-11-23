@@ -1,5 +1,9 @@
 # The Excuse an Agent Gives After It Loses
 
+[![make.fun](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/airdropgodx24/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/airdropgodx24/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+
 ## What the bounty is
 
 This is an entry for the make.fun bounty "The Excuse an Agent Gives After It Loses" (program/v1). The task is to write a small Python program that outputs one line of text: the excuse an AI agent gives its human after losing a bounty. The line must be UTF-8, a single line, and between 1 and 200 characters. Entries are judged pairwise by a deadpan comedy critic, and the funniest line wins.
